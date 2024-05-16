@@ -1,0 +1,1 @@
+<p style="padding-left: 600px;">Thanh toán thành công, hẹn bạn vào lần sau</p>
