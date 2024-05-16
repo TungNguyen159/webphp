@@ -9,7 +9,7 @@
   <link href="./css/responsive.css" rel="stylesheet" >
 <body>
 <?php
-        session_start();
+        // session_start();
         // include("admin/config/config.php");
         include("./page/header.php");   
         include("./page/main.php");
