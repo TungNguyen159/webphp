@@ -93,9 +93,9 @@
 	<div class="container">
 		<div class="slider-content-left-container">
 			<div class="slider-content-left">
-				<a href="#"><img src="./images/phone1.jpg" style="width: 100%;" alt=""></a>
-				<a href="#"><img src="./images/phone2.jpg" style="width: 100%;"alt=""></a>
-				<a href="#"><img src="./images/phone 3.jpg"style="width: 100%;" alt=""></a>
+				<a href="#"><img src="https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045-2.jpg" style="width: 100%;" alt=""></a>
+				<a href="#"><img src="https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045-2.jpg" style="width: 100%;"alt=""></a>
+				<a href="#"><img src="https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045-2.jpg"style="width: 100%;" alt=""></a>
 			</div>	
 			<div class="slider-content-left-btn">
 					<i class="fa fa-angle-left "></i>
