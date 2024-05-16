@@ -10,9 +10,10 @@
 <body>
 <?php
         session_start();
-        include("admin/config/config.php");
         include("./page/header.php");   
         include("./page/main.php");
+        include("admin/config/config.php");
+        
      //   include("./page/sidebar/sidebar.php");
         
         include("./page/showproduct.php");
