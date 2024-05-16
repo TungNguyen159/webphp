@@ -10,19 +10,17 @@
 <body>
 <?php
         session_start();
+        // include("admin/config/config.php");
         include("./page/header.php");   
         include("./page/main.php");
-        include("admin/config/config.php");
-        
      //   include("./page/sidebar/sidebar.php");
-        
         include("./page/showproduct.php");
         include("./page/noidung/productall.php");
         include("./page/footter.php");
 
         ?>
 
-        hello123
+        
 </body>
     <script src="https://kit.fontawesome.com/5c289cb566.js" crossorigin="anonymous"></script>
 	<script src="./js/slide.js"></script>
