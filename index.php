@@ -20,6 +20,8 @@
         include("./page/footter.php");
 
         ?>
+
+        hello123
 </body>
     <script src="https://kit.fontawesome.com/5c289cb566.js" crossorigin="anonymous"></script>
 	<script src="./js/slide.js"></script>
