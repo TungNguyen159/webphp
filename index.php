@@ -9,8 +9,8 @@
   <link href="./css/responsive.css" rel="stylesheet" >
 <body>
 <?php
-        // session_start();
-        // include("admin/config/config.php");
+        session_start();
+	include("admin/config/config.php");
         include("./page/header.php");   
         include("./page/main.php");
      //   include("./page/sidebar/sidebar.php");
